@@ -4,7 +4,6 @@
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Sobre mim</h2>
 
 
-// <img align ="right" src = "memoji.png" width="250" height="250">
 
 - 🌱 Estudando desenvolvimento web e mobile
 - 🤔 Cursando técnico em informática na FIAP School
