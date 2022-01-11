@@ -6,7 +6,7 @@
 
 
 - 🌱 Estudando desenvolvimento web e mobile
-- 🤔 Cursando técnico em informática na FIAP School
+- 🤔 Cursando Análise e Desenvolvimento na FIAP
 - 😄 Apaxionado por tecnologia
 - 📫 Contato: davidaugustoo@protonmail.com
 <br></br>
