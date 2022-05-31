@@ -5,7 +5,7 @@
 
 
 
-- 🌱 Estudando desenvolvimento web e mobile
+- 🌱 Estudando desenvolvimento web
 - 😄 Apaxionado por tecnologia
 - 📫 Contato: davidaugustoo@protonmail.com
 <br></br>
