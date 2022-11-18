@@ -5,9 +5,11 @@
 
 
 
-- 🌱 Estudando desenvolvimento web
-- 😄 Apaxionado por tecnologia
-- 📫 Contato: davidaugustoo@protonmail.com
+```
+🌱 Estudando desenvolvimento web
+😄 Apaxionado por tecnologia
+📫 Contato: davidaugustoo@protonmail.com
+```
 <br></br>
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Tecnologias</h2>                                                                                                                       
