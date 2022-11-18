@@ -1,31 +1,16 @@
 
-<img href="" src="bannerr.png">
+<img src="/assets/banner.png">
 
 
-<h2>Sobre mim</h2>
+## Sobre mim
 
 ```
 🌱 Estudando desenvolvimento web
 
-😄 Apaxionado por tecnologia
+😄 Apaixonado por tecnologia
 
 📫 Contato: davidaugustoo@protonmail.com
 ```
-<br></br>
                                                                                                                     
-<h2>Tecnologias</h2>
-
-<div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
-
-    
-</div>
+## Tecnologias
+ ![Html](/assets/html.svg) ![Css](/assets/css.svg) ![Javascript](/assets/javascript.svg) ![Typescript](/assets/typescript.svg) ![Nodejs](/assets/node.svg) ![React](/assets/react.svg) ![MongoDB](/assets/mongodb.svg) ![Azure](/assets/azure.svg) 
